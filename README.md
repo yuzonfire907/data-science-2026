@@ -14,7 +14,7 @@ Tujuan repository ini adalah sebagai dokumentasi belajar dan portofolio sederhan
 ## Daftar Pertemuan
 | Pertemuan | Topik | Link Notebook |
 |---|---|---|
-| 1 | Pengenalan Data Science dan Python | Belum diunggah |
+| 1 | Pengenalan Data Science dan Python | [Notebook](https://github.com/yuzonfire907/data-science-2026/blob/main/Pertemuan%201_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
 | 2 | Analisis Dataset Titanic | [Notebook](Pertemuan%202_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
 | 3 | Data Cleaning Dataset Harga Rumah | [Notebook](Pertemuan%203_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
 | 4 | Statistika Dasar dan Analisis Dataset Iris | [Notebook](Pertemuan%204_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
