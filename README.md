@@ -20,7 +20,7 @@ Tujuan repository ini adalah sebagai dokumentasi belajar dan portofolio sederhan
 | 4 | Statistika Dasar dan Analisis Dataset Iris | [Notebook](Pertemuan%204_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
 | 5 | Dashboard Visualisasi Statis Dataset Tips | [Notebook](Pertemuan_5_Yustinus_Budi_Kristiawan_240401010299.ipynb) |
 | 6 | Preprocessing Dataset Titanic | [Notebook](Pertemuan%206_Yustinus_Budi_Kristiawan_240401010299.ipynb) |
-| 7 | Regresi Linear dan Prediksi Gaji | Belum diunggah |
+| 7 | Regresi Linear dan Prediksi Gaji | [Notebook](https://github.com/yuzonfire907/data-science-2026/blob/main/Pertemuan%207_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
 
 ## Tools dan Library
 - Python
