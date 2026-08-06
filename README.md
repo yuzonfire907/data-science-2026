@@ -12,15 +12,17 @@ Repository ini berisi kumpulan tugas praktikum mata kuliah Pengantar Data Scienc
 Tujuan repository ini adalah sebagai dokumentasi belajar dan portofolio sederhana dalam memahami alur kerja Data Science, mulai dari membaca dataset, membersihkan data, membuat visualisasi, sampai menyiapkan data untuk model prediksi.
 
 ## Daftar Pertemuan
-| Pertemuan | Topik | Link Notebook |
-|---|---|---|
-| 1 | Pengenalan Data Science dan Python | [Notebook](https://github.com/yuzonfire907/data-science-2026/blob/main/Pertemuan%201_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
-| 2 | Analisis Dataset Titanic | [Notebook](Pertemuan%202_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
-| 3 | Data Cleaning Dataset Harga Rumah | [Notebook](Pertemuan%203_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
-| 4 | Statistika Dasar dan Analisis Dataset Iris | [Notebook](Pertemuan%204_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
-| 5 | Dashboard Visualisasi Statis Dataset Tips | [Notebook](Pertemuan_5_Yustinus_Budi_Kristiawan_240401010299.ipynb) |
-| 6 | Preprocessing Dataset Titanic | [Notebook](Pertemuan%206_Yustinus_Budi_Kristiawan_240401010299.ipynb) |
-| 7 | Regresi Linear dan Prediksi Gaji | [Notebook](https://github.com/yuzonfire907/data-science-2026/blob/main/Pertemuan%207_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
+
+### 🔹 Bagian 1: Fondasi & Pra-pemrosesan Data (Pertemuan 1 - 7)
+| Pertemuan | Topik / Pembahasan | Link Notebook |
+| :---: | :--- | :---: |
+| **P1** | Pengantar Data Science & Lingkungan Kerja (Python/Jupyter) | [Notebook P1](./Pertemuan_01.ipynb) |
+| **P2** | Dasar-dasar Pemrograman Python untuk Data Science | [Notebook P2](./Pertemuan_02.ipynb) |
+| **P3** | Pengolahan Data dengan Pandas & NumPy | [Notebook P3](./Pertemuan_03.ipynb) |
+| **P4** | Exploratory Data Analysis (EDA) & Visualisasi Data | [Notebook P4](./Pertemuan_04.ipynb) |
+| **P5** | Data Preprocessing & Cleaning (Handling Missing Values & Outliers) | [Notebook P5](./Pertemuan_05.ipynb) |
+| **P6** | Feature Engineering & Scaling (Standardization/Normalization) | [Notebook P6](./Pertemuan_06.ipynb) |
+| **P7** | Evaluasi & Reviu Portofolio UTS | [Notebook P7](./Pertemuan_07.ipynb) |
 
 ### 🔹 Bagian 2: Machine Learning, NLP & Deep Learning (Pertemuan 9 - 13)
 | Pertemuan | Topik / Pembahasan | Link Notebook |
