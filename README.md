@@ -22,6 +22,15 @@ Tujuan repository ini adalah sebagai dokumentasi belajar dan portofolio sederhan
 | 6 | Preprocessing Dataset Titanic | [Notebook](Pertemuan%206_Yustinus_Budi_Kristiawan_240401010299.ipynb) |
 | 7 | Regresi Linear dan Prediksi Gaji | [Notebook](https://github.com/yuzonfire907/data-science-2026/blob/main/Pertemuan%207_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
 
+### 🔹 Bagian 2: Machine Learning, NLP & Deep Learning (Pertemuan 9 - 13)
+| Pertemuan | Topik / Pembahasan | Link Notebook |
+| :---: | :--- | :---: |
+| **P9** | **Algoritma Klasifikasi (Bagian 1)**<br>• Logistic Regression & Decision Trees<br>• Confusion Matrix, Accuracy, Precision, Recall, F1-Score | [Notebook P9](./Pertemuan_09.ipynb) |
+| **P10** | **Algoritma Klasifikasi (Bagian 2) & Imbalanced Dataset**<br>• Ensemble Method (Random Forest)<br>• Penanganan Imbalanced Data (SMOTE / Oversampling)<br>• Studi Kasus: *Customer Churn Prediction* | [Notebook P10](./Pertemuan_10.ipynb) |
+| **P11** | **Unsupervised Learning (Clustering)**<br>• K-Means Clustering & Hierarchical Clustering<br>• Metode Elbow & Silhouette Score untuk Cluster Optimal | [Notebook P11](./Pertemuan_11.ipynb) |
+| **P12** | **Asosiasi Data & Sistem Rekomendasi Dasar**<br>• Market Basket Analysis (Algoritma Apriori)<br>• Collaborative & Content-Based Filtering | [Notebook P12](./Pertemuan_12.ipynb) |
+| **P13** | **Pengantar Deep Learning & NLP Dasar**<br>• Konsep Dasar Artificial Neural Network (ANN)<br>• Text Preprocessing & TF-IDF Extraction<br>• Analisis Sentimen Sederhana | [Notebook P13](./Pertemuan_13.ipynb) |
+
 ## Tools dan Library
 - Python
 - Jupyter Notebook / Google Colab
