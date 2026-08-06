@@ -16,7 +16,7 @@ Tujuan repository ini adalah sebagai dokumentasi belajar dan portofolio sederhan
 ### 🔹 Bagian 1: Fondasi & Pra-pemrosesan Data (Pertemuan 1 - 7)
 | Pertemuan | Topik / Pembahasan | Link Notebook |
 | :---: | :--- | :---: |
-| **P1** | Pengantar Data Science & Lingkungan Kerja (Python/Jupyter) | [Notebook P1](./Pertemuan 1_Yustinus Budi Kristiawan_240401010299.ipynb) |
+| **P1** | Pengantar Data Science & Lingkungan Kerja (Python/Jupyter) | [Notebook P1](./https://github.com/yuzonfire907/data-science-2026/blob/main/Pertemuan%201_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
 | **P2** | Dasar-dasar Pemrograman Python untuk Data Science | [Notebook P2](./Pertemuan_02.ipynb) |
 | **P3** | Pengolahan Data dengan Pandas & NumPy | [Notebook P3](./Pertemuan_03.ipynb) |
 | **P4** | Exploratory Data Analysis (EDA) & Visualisasi Data | [Notebook P4](./Pertemuan_04.ipynb) |
