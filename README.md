@@ -17,12 +17,12 @@ Tujuan repository ini adalah sebagai dokumentasi belajar dan portofolio sederhan
 | Pertemuan | Topik / Pembahasan | Link Notebook |
 | :---: | :--- | :---: |
 | **P1** | Pengantar Data Science & Lingkungan Kerja (Python/Jupyter) | [Notebook P1](https://github.com/yuzonfire907/data-science-2026/blob/main/Pertemuan%201_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
-| **P2** | Dasar-dasar Pemrograman Python untuk Data Science | [Notebook P2](./Pertemuan_02.ipynb) |
-| **P3** | Pengolahan Data dengan Pandas & NumPy | [Notebook P3](./Pertemuan_03.ipynb) |
-| **P4** | Exploratory Data Analysis (EDA) & Visualisasi Data | [Notebook P4](./Pertemuan_04.ipynb) |
-| **P5** | Data Preprocessing & Cleaning (Handling Missing Values & Outliers) | [Notebook P5](./Pertemuan_05.ipynb) |
-| **P6** | Feature Engineering & Scaling (Standardization/Normalization) | [Notebook P6](./Pertemuan_06.ipynb) |
-| **P7** | Evaluasi & Reviu Portofolio UTS | [Notebook P7](./Pertemuan_07.ipynb) |
+| **P2** | Dasar-dasar Pemrograman Python untuk Data Science | [Notebook P2](https://github.com/yuzonfire907/data-science-2026/blob/main/Pertemuan%202_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
+| **P3** | Pengolahan Data dengan Pandas & NumPy | [Notebook P3](https://github.com/yuzonfire907/data-science-2026/blob/main/Pertemuan%203_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
+| **P4** | Exploratory Data Analysis (EDA) & Visualisasi Data | [Notebook P4](https://github.com/yuzonfire907/data-science-2026/blob/main/Pertemuan%204_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
+| **P5** | Data Preprocessing & Cleaning (Handling Missing Values & Outliers) | [Notebook P5](https://github.com/yuzonfire907/data-science-2026/blob/main/Pertemuan%205_Yustinus_Budi_Kristiawan_240401010299.ipynb) |
+| **P6** | Feature Engineering & Scaling (Standardization/Normalization) | [Notebook P6](https://github.com/yuzonfire907/data-science-2026/blob/main/Pertemuan%206_Yustinus_Budi_Kristiawan_240401010299.ipynb) |
+| **P7** | Evaluasi & Reviu Portofolio UTS | [Notebook P7](https://github.com/yuzonfire907/data-science-2026/blob/main/Pertemuan%207_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
 
 ### 🔹 Bagian 2: Machine Learning, NLP & Deep Learning (Pertemuan 9 - 13)
 | Pertemuan | Topik / Pembahasan | Link Notebook |
