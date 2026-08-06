@@ -23,7 +23,7 @@ Tujuan repository ini adalah sebagai dokumentasi belajar dan portofolio sederhan
 | 7 | Regresi Linear dan Prediksi Gaji | [Notebook](https://github.com/yuzonfire907/data-science-2026/blob/main/Pertemuan%207_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
 | 9 | Algoritma Klasifikasi (Bagian 1) | [Notebook](https://github.com/yuzonfire907/data-science-2026/blob/main/Pertemuan%209_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
 | 10 | Algoritma Klasifikasi (Bagian 2) | [Notebook](https://github.com/yuzonfire907/data-science-2026/blob/main/Pertemuan%2010_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
-| 11 | Unsupervised Learning : Clustering (K-Means & Hierarchical) | [Notebook] (Pertemuan%202_Yustinus%20Budi%20Kristiawan_240401010299.ipynb(https://github.com/yuzonfire907/data-science-2026/blob/main/Pertemuan%2011_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
+| 11 | Unsupervised Learning : Clustering (K-Means & Hierarchical) | [Notebook](https://github.com/yuzonfire907/data-science-2026/blob/main/Pertemuan%2011_Yustinus%20Budi%20Kristiawan_240401010299.ipynb)
 | 12 | Asosiasi Data & Rekomendasi Dasar | [Notebook](https://github.com/yuzonfire907/data-science-2026/blob/main/Pertemuan%2012_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
 | 13 | Deep Learning & NLP Dasar
 | [Notebook](https://github.com/yuzonfire907/data-science-2026/blob/main/Pertemuan%2013_Yustinus%20Budi%20Kristiawan_240401010299.ipynb) |
