@@ -58,5 +58,22 @@ Lalu jalankan:
 jupyter notebook
 ```
 
-## Kesimpulan
-Melalui praktikum Pertemuan 1 sampai 7, saya mempelajari tahapan dasar Data Science, mulai dari eksplorasi data, pembersihan data, analisis statistik, visualisasi, preprocessing, hingga pengenalan machine learning menggunakan regresi linear. Repository ini menjadi dokumentasi proses belajar dan bukti praktik penggunaan Python untuk analisis data.
+## 📌 Kesimpulan Umum Perjalanan Belajar Data Science (Pertemuan 1 - 13)
+
+Seluruh rangkaian pembelajaran dari **Pertemuan 1 hingga Pertemuan 13** memberikan pemahaman komprehensif mengenai alur kerja Data Science (*Data Science Workflow*):
+
+1. **Persiapan Data & EDA (Pertemuan 1 - 7)**:
+   - Menguasai pemrosesan data mentah (*raw data*) menggunakan Pandas dan NumPy, pembersihan data (*cleaning*), penyetaraan skala fitur (*scaling*), hingga visualisasi eksploratif (EDA).
+
+2. **Supervised Learning - Klasifikasi (Pertemuan 9 - 10)**:
+   - Memahami algoritma klasifikasi (*Logistic Regression, Decision Tree, Random Forest*) serta strategi penanganan kelas tidak seimbang (*Imbalanced Data*) dan pemilihan metrik evaluasi yang tepat (*Precision, Recall, F1-Score*).
+
+3. **Unsupervised Learning - Clustering (Pertemuan 11)**:
+   - Memahami teknik segmentasi data tanpa label menggunakan *K-Means* dan *Hierarchical Clustering*, serta penentuan jumlah *cluster* optimal ($k$) dengan *Elbow Method*.
+
+4. **Sistem Rekomendasi & Asosiasi (Pertemuan 12)**:
+   - Menerapkan *Market Basket Analysis* menggunakan Algoritma *Apriori* (*Support, Confidence, Lift*) serta konsep *Collaborative* dan *Content-Based Filtering*.
+
+5. **Deep Learning & NLP (Pertemuan 13)**:
+   - Menguasai konsep dasar arsitektur *Artificial Neural Network (ANN)* serta *text preprocessing* dan ekstraksi fitur *TF-IDF* untuk analisis sentimen sederhana.
+
